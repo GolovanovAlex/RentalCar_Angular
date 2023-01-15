@@ -1,4 +1,4 @@
-# Rentl Cars Homework
+# Rental Cars Homework
 
 ### Use Skills
 
