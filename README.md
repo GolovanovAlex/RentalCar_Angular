@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
@@ -15,11 +15,11 @@
 
 ## Info
 
-![Gifweb](readme/gifweb.webp)
+![Gifweb](readme/gif.webp)
 
 Создано на основе задания по интенсиву [ITilogia](https://itlogia.ru).
 
-Верстка сайта и использовение базы данных.
+Верстка сайта и использовение базы данных.  
 Работа с **HTML**, **CSS** и **JavaScript**, фреймфорка **Angular** и **TypeScript**.
 
 ---
