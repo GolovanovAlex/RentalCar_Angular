@@ -1,4 +1,4 @@
-# Rental Cars Homework
+# Rental Cars. Use Angular.
 
 ### Use Skills
 
@@ -32,4 +32,3 @@
 - <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
 
 <sub> Made with </sub>💙
-
